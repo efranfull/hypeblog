@@ -1,0 +1,6 @@
+Mi nombre es Ramon Guzman y este archivo es parte
+
+de un documento para probar git
+
+parecido al que se hizo en el video de platzi sobre github
+
