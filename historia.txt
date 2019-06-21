@@ -1,7 +1,6 @@
-Esta es la hitoria de Ramon Guzman
+Mi nombre es Ramon Guzman y este archivo es parte
 
-Ramon Guzman tiene 34 y nacio en Barahona,
-viviendo actualmente en Baní
+de un documento para probar git
 
-Hoy hablaremos de su vida y obra maestra.
+Mañana nos enfocaremos en su vida laboral
 
