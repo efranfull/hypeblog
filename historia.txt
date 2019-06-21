@@ -1,6 +1,7 @@
-Mi nombre es Ramon Guzman y este archivo es parte
+Esta es la hitoria de Ramon Guzman
 
-de un documento para probar git
+Ramon Guzman tiene 34 y nacio en Barahona,
+viviendo actualmente en Baní
 
-parecido al que se hizo en el video de platzi sobre github
+Hoy hablaremos de su hitoria
 
