@@ -1,5 +1,7 @@
 Mi nombre es Ramon Guzman y este archivo es parte
 
+Y mi nombre es Ignacio Mendez y tambie sere parte de este proyecto.
+
 de un documento para probar git
 
 Mañana nos enfocaremos en su vida laboral
